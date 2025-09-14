@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import AIImageChecker from './AIImageChecker'
+import Footer from './Footer';
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
       <div>
         <AIImageChecker />
       </div>
+      <Footer />
     </>
   );
 }
