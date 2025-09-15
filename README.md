@@ -2,6 +2,8 @@
 
 AI Image Checker is a modern web application that allows users to upload images and determine if they are AI-generated or real, using a state-of-the-art Gradio-hosted deep learning model. The app features a drag-and-drop interface, real-time image preview, and clear, color-coded results for an intuitive user experience.
 
+You can View the Site through this link: [https://romelodev.github.io/AI-IMAGE-CHECKER/](https://romelodev.github.io/AI-IMAGE-CHECKER/)
+
 ---
 
 ## Features
@@ -59,7 +61,7 @@ frontend/
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/RomeloDev/AI-IMAGE-CHECKER.git
-   cd AI-IMAGE-CHECKER/frontend
+   cd AI-IMAGE-CHECKER/
    ```
 2. **Install dependencies:**
    ```sh
